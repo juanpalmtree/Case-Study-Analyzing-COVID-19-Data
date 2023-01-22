@@ -41,5 +41,3 @@ SELECT (COUNT(Covid19_cases.deaths)/COUNT(Covid19_cases.cases))*100 as mortality
 | India | Female | Teen | 12000   | 35     |
 | India | Female | Adult | 180000   | 8000     |
 
-
-<iframe src="path/to/your/table.html" width="100%" height="600"></iframe>
