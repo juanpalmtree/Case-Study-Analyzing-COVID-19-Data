@@ -1,4 +1,4 @@
-As a data analyst, I have used SQL to analyze data and answer various questions related to the Covid-19 pandemic.
+As a data analyst, I have used SQL to analyze data and answer various questions related to the Covid-19 pandemic. This is all fictional data that I have constructed
 
 ## Data questions:
 - :bar_chart: **How many confirmed cases** of Covid-19 have there been in a specific country?
