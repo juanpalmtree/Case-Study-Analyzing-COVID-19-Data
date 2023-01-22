@@ -30,6 +30,18 @@ SELECT country, COUNT(*) FROM Covid19_cases GROUP BY country ORDER BY COUNT(*) D
 
 SELECT (COUNT(Covid19_cases.deaths)/COUNT(Covid19_cases.cases))*100 as mortality_rate  FROM Covid19_cases WHERE country='United States'
 
+## Fictional Covid-19 Data for United States:
+
+| country   | gender | age_group  | cases | deaths |
+|-----------|------------|------------|-------|--------|
+| United States | Male | Child   | 10000   | 20      |
+| United States | Male | Teen | 15000   | 50      |
+| United States | Male | Adult | 200000   | 10000      |
+| United States | Female | Child   | 9000   | 15     |
+| United States | Female | Teen | 12000   | 35     |
+| United States | Female | Adult | 180000   | 8000     |
+
+
 ## Fictional Covid-19 Data for India:
 
 | country   | gender | age_group  | cases | deaths |
