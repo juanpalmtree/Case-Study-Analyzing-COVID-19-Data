@@ -29,3 +29,17 @@ SELECT country, COUNT(*) FROM Covid19_cases GROUP BY country ORDER BY COUNT(*) D
 :skull: To find the mortality rate for Covid-19 in a specific country (e.g. United States), the following SQL query can be used:
 
 SELECT (COUNT(Covid19_cases.deaths)/COUNT(Covid19_cases.cases))*100 as mortality_rate  FROM Covid19_cases WHERE country='United States'
+
+## Fictional Covid-19 Data for India:
+
+| country   | gender | age_group  | cases | deaths |
+|-----------|------------|------------|-------|--------|
+| India | Male | Child   | 10000   | 20      |
+| India | Male | Teen | 15000   | 50      |
+| India | Male | Adult | 200000   | 10000      |
+| India | Female | Child   | 9000   | 15     |
+| India | Female | Teen | 12000   | 35     |
+| India | Female | Adult | 180000   | 8000     |
+
+
+<iframe src="path/to/your/table.html" width="100%" height="600"></iframe>
