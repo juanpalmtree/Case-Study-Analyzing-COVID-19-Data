@@ -1,11 +1,11 @@
 As a data analyst, I have used SQL to analyze data and answer various questions related to the Covid-19 pandemic.
 
 ## Data questions:
-- How many confirmed cases of Covid-19 have there been in a specific country?
-- What is the breakdown of confirmed cases by age group in a specific country?
-- What is the trend of confirmed cases over time in a specific country?
-- How do confirmed cases in a specific country compare to other countries?
-- What is the mortality rate for Covid-19 in a specific country?
+- :bar_chart: **How many confirmed cases** of Covid-19 have there been in a specific country?
+- :older_man: **What is the breakdown** of confirmed cases by age group in a specific country?
+- :chart_with_upwards_trend: **What is the trend** of confirmed cases over time in a specific country?
+- :earth_americas: How do confirmed cases in a specific country compare to other countries?
+- :skull: What is the **mortality rate** for Covid-19 in a specific country?
 
 ## SQL solutions:
 
