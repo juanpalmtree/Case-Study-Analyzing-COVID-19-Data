@@ -53,3 +53,15 @@ SELECT (COUNT(Covid19_cases.deaths)/COUNT(Covid19_cases.cases))*100 as mortality
 | India | Female | Teen | 12000   | 35     |
 | India | Female | Adult | 180000   | 8000     |
 
+
+## Fictional Covid-19 Data for Canada:
+
+| country   | gender | age_group  | cases | deaths |
+|-----------|------------|------------|-------|--------|
+| Canada | Male | Child   | 10000   | 20      |
+| Canada | Male | Teen | 15000   | 50      |
+| Canada | Male | Adult | 200000   | 10000      |
+| Canada | Female | Child   | 9000   | 15     |
+| Canada | Female | Teen | 12000   | 35     |
+| Canada | Female | Adult | 180000   | 8000     |
+
